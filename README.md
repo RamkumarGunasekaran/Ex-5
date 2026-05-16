@@ -34,5 +34,5 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-
-# RESULT: The prompt for the above said problem executed successfully
+[EX-5.pdf](https://github.com/user-attachments/files/27841839/EX-5.pdf)
+## RESULT: The prompt for the above said problem executed successfully
